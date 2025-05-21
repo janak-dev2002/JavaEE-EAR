@@ -8,6 +8,8 @@ import java.util.List;
 
 @Stateless
 public class ProductSessionBean implements ProductService {
+
+
     @Override
     public Product getProduct(int id) {
         return new Product(1, "Product 1", 10.0, "Description 1", 100);

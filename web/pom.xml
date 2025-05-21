@@ -26,6 +26,11 @@
             <version>10.0.0</version>
             <scope>provided</scope>
         </dependency>
+        <dependency>
+            <groupId>com.jdev.ee</groupId>
+            <artifactId>ejb</artifactId>
+            <type>ejb-client</type>
+        </dependency>
     </dependencies>
 
     <build>

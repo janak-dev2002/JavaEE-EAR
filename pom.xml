@@ -34,7 +34,7 @@
                 <groupId>com.jdev.ee</groupId>
                 <artifactId>ejb</artifactId>
                 <version>1.0</version>
-                <type>ejb</type>
+                <type>ejb-client</type>
             </dependency>
             <dependency>
                 <groupId>com.jdev.ee</groupId>
